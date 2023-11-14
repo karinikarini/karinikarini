@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @karinikarini
 - 👀 I’m interested in datamanagement and sharing knowledge
-- 📚 I’m currently studying library and information studies @university of vienna
-- ❤️ I'm teaching animation and videopostproduction mostly @fh-joanneum.at
+- 📚 I’m currently working as digital preservation manager @Austrian National Library
 - 🐯 How to reach me: karin.heide@fh-joanneum.at
 
 <!---
